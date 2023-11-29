@@ -4,7 +4,10 @@
     list-style: none;
     text-decoration-line: none;
 
+
 }
+
+
 
 /* header */
 
@@ -29,6 +32,18 @@
 }
 
 /* main */
+
+
+.conteiner2 .img1 {
+
+    width: 1440px;
+height: 478px;
+
+
+}
+
+
+
 
 .conteiner2 .mainh1 {
     color:  #17326E;
@@ -58,7 +73,6 @@
     background-color: #EBEBF0;
     width: 1440px;
     height: 439px;
-    top: 930px;
 
 }
 
@@ -69,7 +83,6 @@
     display: flex;
     width: 1440px;
     height: 161px;
-    top: 1369px;
     background-color:  #19126B;
     
 }
